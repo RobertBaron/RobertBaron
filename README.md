@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+Here are some of my stats:
+
+![](https://github.com/RobertBaron/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/RobertBaron/github-stats/blob/master/generated/languages.svg)
+
+Love architecture high scalable software, cloud developer for over 4 years, full-stack on web (angular) and mobile (react native) with a deep knowledge of nodejs w/typescrypt. 
+
+> HODLer, and crypto lover. ₿
+
 <!--
 **RobertBaron/RobertBaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
